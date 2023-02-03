@@ -1,0 +1,3 @@
+console.log("Visual Studio Code is a source-code editor that can be used with a variety of programming languages, including C, C#, C++, Fortran, Go, Java, JavaScript, Node.js, Python, Rust.")
+console.log("To set up the Visual Studio Code, we just have to install it and just click on new file and get started")
+console.log("The JavaScript console log function is mainly used for code debugging as it makes the JavaScript print the output to the console. To open the browser console, right-click on the page and select Inspect, and then click Console.")
